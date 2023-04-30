@@ -1,5 +1,5 @@
 ## Second-Capstone-Project
-# Uncovering Fraud: A Machine Learning Model to Predict Credit Card Transactions
+# Uncovering Fraud: A Machine Learning Model to Predict Credit Card Fraud Transactions
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/121911081/235372591-0eac6f88-c364-47f2-903a-0cf970361a65.png">
 
